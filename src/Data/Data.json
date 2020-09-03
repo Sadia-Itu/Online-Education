@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "course": "Air Conditioning",
+    "price": 57.66,
+    "author": "Ewart Zoren"
+  }, {
+    "id": 2,
+    "course": "TBS",
+    "price": 59.31,
+    "author": "Robinet Jorgesen"
+  }, {
+    "id": 3,
+    "course": "DMAIC",
+    "price": 50.05,
+    "author": "Isaak Curnock"
+  }, {
+    "id": 4,
+    "course": "RF Engineering",
+    "price": 45.68,
+    "author": "Zacherie Budd"
+  }, {
+    "id": 5,
+    "course": "TPP",
+    "price": 42.37,
+    "author": "Far Surby"
+  }, {
+    "id": 6,
+    "course": "AAR",
+    "price": 53.88,
+    "author": "Myrtie Toulson"
+  }, {
+    "id": 7,
+    "course": "TWiki",
+    "price": 35.93,
+    "author": "Darda Truelock"
+  }, {
+    "id": 8,
+    "course": "MRP",
+    "price": 37.56,
+    "author": "Bernardo Reidshaw"
+  }, {
+    "id": 9,
+    "course": "JBoss Application Server",
+    "price": 73.32,
+    "author": "Celia Sharpe"
+  }, {
+    "id": 10,
+    "course": "Axure RP",
+    "price": 74.57,
+    "author": "Olivia Risdale"
+  }, {
+    "id": 11,
+    "course": "SRAM",
+    "price": 24.07,
+    "author": "Everard Puttock"
+  }, {
+    "id": 12,
+    "course": "Epigenetics",
+    "price": 56.07,
+    "author": "Carmine Revelle"
+  }]

@@ -1,0 +1,24 @@
+.course{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    margin-right: 10px;
+    border-right: 1px solid lightgray;
+    padding:5%;
+    text-align: center;
+    
+
+}
+.courseName{
+    color:hsl(240, 45%, 30%);
+    font-weight: 400px;
+}
+.btn{
+    background-color: hsl(240, 44%, 14%);
+    weight:200px;
+    height: 30px;
+    border:1px solid lightgray;
+    color: white;
+
+}
